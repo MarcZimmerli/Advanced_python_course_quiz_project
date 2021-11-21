@@ -8,6 +8,6 @@ Thus, the product isn't really intended for use by anyone but serves merely as a
 ![image](https://user-images.githubusercontent.com/84137357/142774500-280e010c-57a0-459a-9e1a-e460b3dba28e.png)
 
 At the moment (as of the 21.11.2021), only Task 1 of the above mentioned subtasks has been completed.
-(So it is only possible to add questions to a database but not to generate quizes from them yet and track scores etc.)
+So it is only possible to add questions to a database but not to generate quizes from them yet and track scores etc.
 For a more detailled description of the intended timeline for the implementation of the remaining features, please refer to 
 
