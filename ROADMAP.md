@@ -34,7 +34,8 @@ Also the point at which this roadmap (and the README) was written,
 which is why the previous two entries are written in past tense and not a description of taks to be done.
 
 ### November 22nd
-Deadline for handing in the auxilliary ROADMAP, README & CONTRIBUTING files which should make the project more accessible
+Deadline for handing in the auxilliary ROADMAP, README & CONTRIBUTING files which should make the project more accessible.
+The 'CONTRIBUTING' file was postponed until the 29th since without setting up the repository for pull requests, there is no practical way to contribute to the project yet anyways.
 
 ### November 29th
 At this point, it should be possible to generate short 'quizzes' from the questions in the database, consisting of 5 questions.
