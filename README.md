@@ -1,4 +1,4 @@
-# Advanced_python_course_quiz_project
+# Advanced python course - quiz project
 A simple python project for setting up and running multiple-choice quizzes
 
 ## Goal of the project
