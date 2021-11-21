@@ -6,6 +6,7 @@ the goal of this project is basically artificially dictated by it being an exerc
 Thus, it is not expected that anyone will actually ever use the final product. 
 So with no clear utility in mind, the ACTUAL goal of this project is therefore simply to satisfy the requirements specified in the exercise description:
 ![image](https://user-images.githubusercontent.com/84137357/142775417-8c9e5805-2233-4444-9a76-60b1fa49cea6.png)
+
 The intended timeline from the start of the project on the 08.11.2021 until the end of the project on 20.12.2021 is given below
 
 ## Timeline & milestones
