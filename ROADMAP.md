@@ -1,5 +1,6 @@
 # Advanced python course - quiz project
-## Roadmap
+
+## Goal of the project
 As outlied in the [README](https://github.com/MadpenguinCH/Advanced_python_course_quiz_project/blob/main/README.md) file, 
 the goal of this project is basically artificially dictated by it being an exercise for a university course. 
 Thus, it is not expected that anyone will actually ever use the final product. 
