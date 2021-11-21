@@ -9,5 +9,7 @@ Thus, the product isn't really intended for use by anyone but serves merely as a
 
 At the moment (as of the 21.11.2021), only Task 1 of the above mentioned subtasks has been completed.
 So it is only possible to add questions to a database but not to generate quizes from them yet and track scores etc.
-For a more detailled description of the intended timeline for the implementation of the remaining features, please refer to the [ROADMAP](https://github.com/MadpenguinCH/Advanced_python_course_quiz_project/blob/main/ROADMAP.md)
+For a more detailled description of the intended timeline for the implementation of the remaining features, please refer to the [ROADMAP](https://github.com/MadpenguinCH/Advanced_python_course_quiz_project/blob/main/ROADMAP.md).
+
+At the moment, this repository is not set up to allow for
 
